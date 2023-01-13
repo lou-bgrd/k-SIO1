@@ -1,4 +1,13 @@
-.screen { 
-    min-height: 50px;
-    text-align: right;
+.screen {
+  min-height: 50px;
+  text-align: right;
+  
+}
+
+main {
+  background-color: darkgray;
+  border-radius: 5px;
+  
+
+  
 }
